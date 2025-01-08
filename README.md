@@ -59,7 +59,7 @@ There are several ways to improve the model and the project:
 
 ## References
 
-- Author: Mirza Salman
-- Contact: salmansaluu661@gmail.com
+- Author: Muhammad Mubashir Ali
+- Contact: muhammadmubashirali63@gmail.com
 
 Feel free to customize this README to include any additional information you want to provide about the project.
